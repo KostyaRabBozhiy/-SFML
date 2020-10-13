@@ -1,0 +1,6 @@
+﻿  СhangeBackgroundColor.cpp
+C:\Users\kosty\Desktop\СhangeBackgroundColor\СhangeBackgroundColor\СhangeBackgroundColor.cpp(90,15): warning C4244:  =: преобразование "float" в "int", возможна потеря данных
+C:\Users\kosty\Desktop\СhangeBackgroundColor\СhangeBackgroundColor\СhangeBackgroundColor.cpp(98,15): warning C4244:  =: преобразование "float" в "int", возможна потеря данных
+C:\Users\kosty\Desktop\СhangeBackgroundColor\СhangeBackgroundColor\СhangeBackgroundColor.cpp(106,15): warning C4244:  =: преобразование "float" в "int", возможна потеря данных
+C:\Users\kosty\Desktop\СhangeBackgroundColor\СhangeBackgroundColor\СhangeBackgroundColor.cpp(114,19): warning C4244:  инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+  СhangeBackgroundColor.vcxproj -> C:\Users\kosty\Desktop\СhangeBackgroundColor\x64\Debug\СhangeBackgroundColor.exe
